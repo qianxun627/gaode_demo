@@ -1,0 +1,2 @@
+CHANGED,D:\A\MyWork\radarScanDemo\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\zihao\radar\view\RadarView$override.class
+CHANGED,D:\A\MyWork\radarScanDemo\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

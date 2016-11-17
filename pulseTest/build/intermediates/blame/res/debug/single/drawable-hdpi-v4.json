@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gplus_cancel.png",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\gplus_cancel.png"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gplus_search_args.png",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\gplus_search_args.png"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_bind_normal.png",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\button_bind_normal.png"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gplus_search_bg.png",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\gplus_search_bg.png"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_start_sports_press.png",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\btn_start_sports_press.png"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\change_avatar_bg.png",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\change_avatar_bg.png"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_radar_begin_clicked.png",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\bg_radar_begin_clicked.png"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar.xml",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\bar.xml"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gplus_back.png",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\gplus_back.png"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\locus_round_click.png",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\locus_round_click.png"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_close_press.png",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\drawable-hdpi\\button_close_press.png"
+    }
+]

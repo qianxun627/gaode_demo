@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="17"
+    format="7"
+    timestamp="12547616199716" >
+
+    <task
+        name="javac"
+        duration="2792" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="224" />
+    <task
+        name="verifier"
+        duration="24" />
+
+    <artifact
+        location="D:\A\MyWork\pulseTest\build\outputs\apk\pulseTest-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="12547616199716" >
+        <artifact
+            location="D:\A\MyWork\pulseTest\build\outputs\apk\pulseTest-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

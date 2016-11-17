@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.annie.mywork.MainActivity"
+    android:orientation="vertical">
+
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor=""
+        android:text="Hello World!"/>-->
+    <!--<com.annie.mywork.WaterWaveView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>-->
+    <com.annie.mywork.CircleView
+        android:id="@+id/myCircle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true">
+        <!--<Button
+            android:layout_width="600px"
+            android:layout_height="wrap_content"
+            android:text="hahhaahahha"/>-->
+    </com.annie.mywork.CircleView>
+
+    <!--<Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="刷新"
+        android:layout_below="@+id/myCircle"
+        android:onClick="press"/>-->
+</RelativeLayout>

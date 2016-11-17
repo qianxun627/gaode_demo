@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AMap2DDemo" />
+            <option value="$PROJECT_DIR$/GaoDe" />
+            <option value="$PROJECT_DIR$/RadarScan-master" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gaodeLocation" />
+            <option value="$PROJECT_DIR$/gaode_medo" />
+            <option value="$PROJECT_DIR$/pulseTest" />
+            <option value="$PROJECT_DIR$/radarScanDemo" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AMap2DDemo" />
+            <option value="$PROJECT_DIR$/GaoDe" />
+            <option value="$PROJECT_DIR$/RadarScan-master" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gaodeLocation" />
+            <option value="$PROJECT_DIR$/gaode_medo" />
+            <option value="$PROJECT_DIR$/pulseTest" />
+            <option value="$PROJECT_DIR$/radarScanDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

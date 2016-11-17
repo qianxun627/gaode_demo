@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="17"
+    format="7"
+    timestamp="2713288130361" >
+
+    <task
+        name="javac"
+        duration="126" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="47" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="D:\A\MyWork\radarScanDemo\build\outputs\apk\radarScanDemo-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="2713288130361" >
+        <artifact
+            location="D:\A\MyWork\radarScanDemo\build\outputs\apk\radarScanDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

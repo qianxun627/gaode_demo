@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\menu\\newn.xml",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\menu\\newn.xml"
+    },
+    {
+        "merged": "D:\\A\\MyWork\\pulseTest\\build\\intermediates\\res\\merged\\debug\\menu\\action_menu.xml",
+        "source": "D:\\A\\MyWork\\pulseTest\\src\\main\\res\\menu\\action_menu.xml"
+    }
+]

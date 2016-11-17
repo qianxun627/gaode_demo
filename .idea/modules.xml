@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AMap2DDemo/AMap2DDemo.iml" filepath="$PROJECT_DIR$/AMap2DDemo/AMap2DDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GaoDe/GaoDe.iml" filepath="$PROJECT_DIR$/GaoDe/GaoDe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWork.iml" filepath="$PROJECT_DIR$/MyWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RadarScan-master/RadarScan-master.iml" filepath="$PROJECT_DIR$/RadarScan-master/RadarScan-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaodeLocation/gaodeLocation.iml" filepath="$PROJECT_DIR$/gaodeLocation/gaodeLocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaode_medo/gaode_medo.iml" filepath="$PROJECT_DIR$/gaode_medo/gaode_medo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulseTest/pulseTest.iml" filepath="$PROJECT_DIR$/pulseTest/pulseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radarScanDemo/radarScanDemo.iml" filepath="$PROJECT_DIR$/radarScanDemo/radarScanDemo.iml" />
+    </modules>
+  </component>
+</project>

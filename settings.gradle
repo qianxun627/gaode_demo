@@ -1,0 +1,4 @@
+include ':app', ':gaode_medo', 'GaoDe', 'gaodeLocation', 'AMap2DDemo', 'RadarScan-master'
+include ':pulseTest'
+include ':radarScanDemo'
+
